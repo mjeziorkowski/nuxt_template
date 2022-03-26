@@ -1,4 +1,4 @@
-# darkbane_nuxt
+# nuxt_template
 
 ## Build Setup
 
